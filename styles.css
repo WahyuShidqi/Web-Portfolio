@@ -10,9 +10,7 @@ section {
 }
 
 /*about*/
-.col {
-  /*text-decoration: underline rgb(86, 86, 86);*/
-}
+
 /*Project*/
 #projects {
   background-color: azure;
@@ -36,9 +34,6 @@ a:hover {
   color: rgb(12, 137, 205);
 }
 a:active {
-  color: rgba(93, 12, 243, 0.974);
-}
-a:visited {
   color: rgba(93, 12, 243, 0.974);
 }
 
