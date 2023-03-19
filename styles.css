@@ -1,0 +1,52 @@
+section {
+  margin-bottom: 2rem;
+  padding-top: 1.5rem;
+}
+
+/*Home*/
+.jumbotron {
+  padding: 3rem 1rem;
+  background-color: azure;
+}
+
+/*about*/
+.col {
+  /*text-decoration: underline rgb(86, 86, 86);*/
+}
+/*Project*/
+#projects {
+  background-color: azure;
+}
+
+#cards-container {
+  padding-top: 2rem;
+}
+
+/*Contact Me*/
+
+.form-label {
+  font-weight: 500;
+}
+
+a {
+  color: #000000;
+}
+
+a:hover {
+  color: rgb(12, 137, 205);
+}
+a:active {
+  color: rgba(93, 12, 243, 0.974);
+}
+a:visited {
+  color: rgba(93, 12, 243, 0.974);
+}
+
+.border {
+  padding: 14px 8px;
+  font-size: 1.2rem;
+  border-radius: 10px;
+  background-color: azure;
+}
+
+/* footer */
